@@ -7,7 +7,7 @@ Rules:
 - Subject or body matches text patterns: <SET0>
 
 Exceptions:
-- if sender's domain is quaratine.messaging.microsoft.com
+- if sender's domain is quarantine.messaging.microsoft.com
 
 Actions:
 - Deliver to quarantine
